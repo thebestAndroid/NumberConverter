@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Numbers Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView1">Стара СЧ</string>
+    <string name="textView2">Нова СЧ</string>
+    <string name="textView3">Число в старій СЧ</string>
+    <string name="textView4">Число в новій СЧ</string>
+
+    <string-array name="array_type_sn">
+        <item>2</item>
+        <item>8</item>
+        <item>10</item>
+        <item>16</item>
+    </string-array>
+
+    <string name="faculty">Факультет Комп\'ютерних наук</string>
+    <string name="developer">Розробник Свєрідов Д.В.</string>
+    <string name="title_activity_control">Control</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_sp">&lt;-&gt;</string>
+
+</resources>
